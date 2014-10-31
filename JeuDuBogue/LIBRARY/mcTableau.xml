@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcTableau" itemID="522f57b2-000001da" lastModified="1378836218">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcTableau" itemID="522f57b2-000001da" lastModified="1414775248">
   <timeline>
     <DOMTimeline name="mcTableau">
       <layers>
@@ -6,13 +6,13 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="63" height="46.7" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="-2" width="68" height="46.7" isSelectable="false">
                   <matrix>
-                    <Matrix tx="7" ty="6.9"/>
+                    <Matrix tx="4" ty="6.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Points:&#xD;Vies:</characters>
+                      <characters>pouins:&#xD;vy:</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="right" aliasText="false" size="20" bitmapSize="400" face="_sans" fillColor="#FFFFFF"/>
                       </textAttrs>
@@ -32,7 +32,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="txtVies" selected="true" fontRenderingMode="standard" width="27" height="22.35" isSelectable="false">
+                <DOMDynamicText name="txtVies" fontRenderingMode="standard" width="27" height="22.35" isSelectable="false">
                   <matrix>
                     <Matrix tx="74" ty="31.25"/>
                   </matrix>
